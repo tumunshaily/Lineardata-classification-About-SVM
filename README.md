@@ -1,7 +1,6 @@
-# Facial-Recognization
-Using SVM
+# Using SVM
 
-In this repository you will see how to use SVM model in machine learning for facial-recognization.
+In this repository you will see how to use SVM model in machine learning.
 
 tools : Jupiter notebook , python3 , scikit-learn library (main)
 
